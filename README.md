@@ -11,5 +11,6 @@ A collection of themes I use in various applications.
 ### Termux 
 
 Save theme as: `~/termux/colors.properties`
+
 Run: `termux-reload-settings`
 
